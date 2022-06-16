@@ -1,3 +1,24 @@
+## TODO
+1. Login auth with JWT, multi user(4 roles)
+2. Create migration all table
+3. Regis institution, by intitution owner. Fullfill insitution data
+4. Review intitution registration by super admin
+5. Admin CRUD by owner
+6. Assets CRUD by owner
+7. Transaction Type CRUD by owner
+8. Pinjaman type CRUD by owner
+9. Bunga Menurun CRUD by owner
+10. Bunga menetap CRUD by owner
+11. Member registration by admin
+12. Add transaksi simpanan by admin
+13. Add transaksi kas by admin
+14. Add transaksi angsuran by admin
+15. Add transaksi penarikan simpanan by admin
+16. Add transaksi pinjaman
+17. Koreksi transaksi by admin
+18. Melakukan simpanan secara online by member
+19. Melakukan pembayaran angsuran secara online by member
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
